@@ -10,6 +10,7 @@ Every Scenario run needs the following:
 3. __Goal__
 4. __Output__
 
+| Option | Description |
 | ------ | ----------- |
 | Warehouse Definition   | Core of the project, contained in warehouse.lp |
 | Object Initiations | init() functions for objects, defines a warehouse scenario |
