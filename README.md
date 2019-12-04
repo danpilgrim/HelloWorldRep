@@ -1,9 +1,18 @@
 # HelloWorldRep
 
-## Tables
+----
+## Running Scenarios
 
-| Option | Description |
+Every Scenario run needs the following:
+
+1. __Warehouse Definition__
+2. __Object Initiations__
+3. __Goal__
+4. __Output__
+
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| Warehouse Definition   | Core of the project, contained in warehouse.lp |
+| Object Initiations | init() functions for objects, defines a warehouse scenario |
+| Goal    | Goal clause for warehouse scenario |
+| Output    | Display output of satisfiable solutions for scenario |
+---
