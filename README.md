@@ -3,7 +3,7 @@
 ----
 ## Running Scenarios
 
-Every Scenario run needs the following:
+Every Scenario run needs the following properties:
 
 1. __Warehouse Definition__
 2. __Object Initiations__
